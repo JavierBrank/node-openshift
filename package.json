@@ -1,0 +1,17 @@
+{
+  "name": "node-openshift",
+  "version": "1.0.0",
+  "description": "Servidor node para open shift desde cero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JavierBrank",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "object-assign": "^4.1.1"
+  }
+}
